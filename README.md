@@ -5,6 +5,6 @@ crypto-trading-bot-eth-bnb new
 my bot backup 2024.
 
 how to i use:
-edit config.j.
+edit config.js.
 run index.html.
 
