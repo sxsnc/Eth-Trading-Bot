@@ -2,7 +2,7 @@
 crypto-trading-bot-eth-bnb new
 
 
-my bot backup 2024.
+my bot backup 2024. up/2
 
 how to i use: 
 edit config.js
