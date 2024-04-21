@@ -3,7 +3,7 @@ crypto-trading-bot-eth-bnb
 
 
 
-how to use :
+how to use:
 
 edit config.js.
 run index.html.
