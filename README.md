@@ -1,5 +1,5 @@
 # crypto-trading-bot-eth-bnb
-crypto-trading-bot-eth-bnb new
+crypto-trading-bot-eth-bnb
 
 
 
