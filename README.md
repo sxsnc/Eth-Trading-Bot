@@ -1,5 +1,5 @@
 # crypto-trading-bot-eth-bnb
-crypto-trading-bot-eth-bnb
+eth-trading-bot
 
 
 edit config.js.
