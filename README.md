@@ -1,6 +1,7 @@
 # crypto-trading-bot-eth-bnb
 eth-trading-bot
 
+updated.
 
 edit config.js.
 run index.html.
