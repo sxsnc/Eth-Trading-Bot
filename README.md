@@ -2,9 +2,8 @@
 crypto-trading-bot-eth-bnb new
 
 
-my bot backup 2024.
 
-how to use:
+how to use :
 edit config.js.
 run index.html.
 
